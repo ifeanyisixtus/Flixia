@@ -5,13 +5,14 @@
 
 .main {
   background: linear-gradient(
-    to top,
-    rgba(0, 0, 0, 0.5) 50%,
-    rgba(0, 0, 0, 0.5) 50%
-  );
+      to top,
+      rgba(0, 0, 0, 0.5) 50%,
+      rgba(0, 0, 0, 0.5) 50%
+    ),
+    url(1.jpg);
   background-position: center;
   background-size: cover;
-  height: 133vh;
+  height: 110vh;
   width: 100%;
 }
 
